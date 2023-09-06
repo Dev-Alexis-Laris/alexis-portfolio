@@ -27,7 +27,7 @@ const Project = ({ title }) => {
                     In Process...
                 </p>
             </div>
-            <img src={`/assets/${projectTitle}.jpeg`} alt={projectTitle}/>
+            <img src={`assets/${projectTitle}.jpeg`} alt={projectTitle}/>
         </motion.div>
     )
 }
