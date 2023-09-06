@@ -83,7 +83,7 @@ const Landing = ({ setSelectedPage }) => {
 
                     </AnchorLink>
 
-                    <a className="rounded-r-sm bg-gradient-rainblue py-0.5 pr-0.5" href='./test.pdf' download={''}
+                    <a className="rounded-r-sm bg-gradient-rainblue py-0.5 pr-0.5" href='./Alexis_Laris_CV.pdf' download={''}
                         
                     >
                         <div className="bg-deep-blue hover:text-red transition duration-500 w-full h-full flex items-center justify-center font-playfair px-10"
