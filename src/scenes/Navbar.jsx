@@ -53,7 +53,7 @@ const Navbar = ({ isTopOfPage, selectedPage, setSelectedPage }) => {
                     </div>
                 ) :
                     (<button className="rounded-full bg-red p-2" onClick={() => setIsMenuToggled(!isMenuToggled)}>
-                        <img alt="menu-icon" src="../assets/menu-icon.svg" />
+                        <img alt="menu-icon" src="assets/menu-icon.svg" />
                     </button>
                     )}
 
