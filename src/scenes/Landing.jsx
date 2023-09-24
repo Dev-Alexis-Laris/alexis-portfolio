@@ -57,7 +57,7 @@ const Landing = ({ setSelectedPage }) => {
                     </p>
 
                     <p className="mt-10 mb-7 text-small text-center md:text-start">
-                    Soy un apasionado estudiante de ingeniería en desarrollo y gestión de software con un fuerte compromiso de aprendizaje constante. <br /> <br /> Mi experiencia abarca la gestión de bases de datos, desarrollo web y la utilización de diversos frameworks. Estas competencias me capacitan para abordar proyectos con solidez técnica y eficacia.
+                    Sooooy un apasionado estudiante de ingeniería en desarrollo y gestión de software con un fuerte compromiso de aprendizaje constante. <br /> <br /> Mi experiencia abarca la gestión de bases de datos, desarrollo web y la utilización de diversos frameworks. Estas competencias me capacitan para abordar proyectos con solidez técnica y eficacia.
                     </p>
                 </motion.div>
 
